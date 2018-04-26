@@ -1,0 +1,1 @@
+export DOTENVENC_KEY='twitterFeed1'
